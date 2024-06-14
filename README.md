@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-![Version Screenshot](/project-x/git_version.png)
+![Version Screenshot](/git_version.png)
